@@ -11,8 +11,8 @@ var bgImg;
 var dnl;
 var pic;
 function preload(){
-bgImg=loadImage("sprites/park.jpg");
-pic=loadImage("sprites/donotlitter.jpg");
+bgImg=loadImage("park.jpg");
+pic=loadImage("donotlitter.jpg");
 }
 
 function setup() {
